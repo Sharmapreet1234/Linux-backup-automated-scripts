@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-SOURCE_DIR="/home/amit/Desktop/scripts"      # Path to the "scripts" folder on Desktop
-BACKUP_DIR="/home/amit/backups"              # Backup location in the home directory
+SOURCE_DIR="/home/preeti/Desktop/scripts"      # Path to the "scripts" folder on Desktop
+BACKUP_DIR="/home/preeti/backups"              # Backup location in the home directory
 DATE=$(date +'%Y-%m-%d_%H-%M-%S')            
 BACKUP_FILE="$BACKUP_DIR/backup_$DATE.tar.gz"
 
